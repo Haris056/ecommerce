@@ -1,0 +1,26 @@
+
+        .body {
+            background-color: #e2d29efe; /* Beige Background */
+            color: #030303; /* Black text color */
+        }
+    
+        .navbar {
+            background-color: #ecc59865; /* Tan Navbar */
+        }
+    
+        .jumbotron {
+            background-color: #efc27fc3; /* Beige Jumbotron */
+            color: #7180c5; /* Black text color */
+        }
+    
+        .product-card {
+            background-color: #efd6b597; /* Tan Product Card */
+            color: #000; /* Black text color */
+            margin-bottom: 20px;
+        }
+    
+        .btn-beige {
+            background-color: #3d9bd2; /* Tan Button */
+            color: #ffafafb6b; /* Black text color */
+        }
+    
